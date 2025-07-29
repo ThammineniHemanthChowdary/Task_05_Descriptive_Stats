@@ -1,0 +1,47 @@
+Top 5 Horsepower Cars:
+Company Names         Cars Names  HorsePower_clean
+       Nissan              Urvan            2488.0
+      Bugatti             Bolide            1850.0
+      Bugatti Chiron Super Sport            1600.0
+      Bugatti         Centodieci            1600.0
+      Bugatti            Mistral            1600.0
+
+Top 5 Fastest Accelerating Cars (0–100 km/h):
+Company Names       Cars Names  Acceleration_clean
+        Tesla       Roadster 2                 1.9
+        Tesla    Model S Plaid                 2.1
+      Bugatti           Bolide                 2.2
+      Bugatti Chiron Pur Sport                 2.3
+      Bugatti       Centodieci                 2.4
+
+Top 5 Most Expensive Cars:
+Company Names       Cars Names  Price_clean
+      Bugatti La Voiture Noire   18000000.0
+      Bugatti       Centodieci    9000000.0
+      Bugatti             Divo    5800000.0
+      Bugatti          Mistral    5000000.0
+        Mazda  787B (Race Car)    5000000.0
+
+Top 5 Speed-to-Price Ratio Cars:
+Company Names     Cars Names  TopSpeed_clean  Price_clean
+  Tata Motors Indica V2 Xeta           140.0       5000.0
+  Tata Motors      Nano GenX           105.0       4000.0
+  Tata Motors     Indica eV2           155.0       6200.0
+  Tata Motors     Indigo eCS           155.0       6500.0
+  Tata Motors     Indigo GLX           160.0       7200.0
+
+Top 5 HP-to-Price Ratio Cars:
+Company Names      Cars Names  HorsePower_clean  Price_clean
+       Nissan           Urvan            2488.0      28000.0
+  Tata Motors  Indica V2 Xeta              65.0       5000.0
+  Tata Motors      Indigo GLX              85.0       7200.0
+        Tesla      Cybertruck             800.0      69900.0
+         Ford F-150 Lightning             452.0      40000.0
+
+Top 5 Speed-to-Acceleration Ratio Cars:
+Company Names         Cars Names  TopSpeed_clean  Acceleration_clean
+      Bugatti             Bolide           500.0                 2.2
+        Tesla         Roadster 2           402.0                 1.9
+      Bugatti Chiron Super Sport           490.0                 2.4
+      Bugatti            Mistral           420.0                 2.4
+      Bugatti       Chiron Sport           420.0                 2.4
