@@ -64,14 +64,15 @@ I logged:
 ## 📂 File Structure
 ```
 Task_5/
-├── data/ # Contains dataset (not uploaded to GitHub)
+├── .gitignore # Ignore sensitive files and dataset
+├── data/ # Dataset (not uploaded)
 │ └── Cars Datasets 2025.csv
-├── output/ # Auto-generated results
+├── output/ # Auto-generated statistics
 │ ├── summary_stats.json
 │ └── top_performers.txt
 ├── basic_stats.py # Python script for stats generation
-├── llm_prompt_log.md # Prompt/response log with validation
-└── README.md # This file
+├── llm_prompt_log.md # Prompt + response + validation
+└── README.md # Project overview and documentation
 ```
 
 ---
