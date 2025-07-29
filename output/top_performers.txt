@@ -6,7 +6,7 @@ Company Names         Cars Names  HorsePower_clean
       Bugatti         Centodieci            1600.0
       Bugatti            Mistral            1600.0
 
-Top 5 Fastest Accelerating Cars (0–100 km/h):
+Top 5 Fastest Accelerating Cars (0â€“100 km/h):
 Company Names       Cars Names  Acceleration_clean
         Tesla       Roadster 2                 1.9
         Tesla    Model S Plaid                 2.1
