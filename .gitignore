@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (per instructions – dataset should NOT be uploaded)
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Output folders (optional – if you want to regenerate every time)
+# Comment this line out if you want to track the output folder
+# output/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
